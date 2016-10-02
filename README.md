@@ -1,4 +1,4 @@
 # friends
-[Friends Transcripts](friends.html)
+[Friends Transcripts](https://fangj.github.io/friends/)
 
 
