@@ -1,2 +1,4 @@
 # friends
-Friends Transcripts
+[Friends Transcripts](friends.html)
+
+
